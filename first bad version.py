@@ -4,8 +4,8 @@ class Solution(object):
     def firstBadVersion(self, n):
         low=1
         high=n
-        while(low<n):
-            mid = low+high//2
+        while(low<high):
+            mid = low+(high)//2
             if isBadVersion(mid):
                 high=mid
             else:
