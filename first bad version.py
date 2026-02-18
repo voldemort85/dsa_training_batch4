@@ -5,7 +5,7 @@ class Solution(object):
         low=1
         high=n
         while(low<high):
-            mid = low+(high)//2
+            mid = low+(high-low)//2
             if isBadVersion(mid):
                 high=mid
             else:
