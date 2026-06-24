@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/voldemort85/dsa_training_batch4/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/voldemort85/dsa_training_batch4/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/voldemort85/dsa_training_batch4/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/voldemort85/dsa_training_batch4/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/voldemort85/dsa_training_batch4/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/voldemort85/dsa_training_batch4/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
