@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/voldemort85/dsa_training_batch4/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/voldemort85/dsa_training_batch4/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/voldemort85/dsa_training_batch4/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/voldemort85/dsa_training_batch4/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/voldemort85/dsa_training_batch4/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/voldemort85/dsa_training_batch4/tree/master/1652-defuse-the-bomb) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/voldemort85/dsa_training_batch4/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/voldemort85/dsa_training_batch4/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/voldemort85/dsa_training_batch4/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/voldemort85/dsa_training_batch4/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/voldemort85/dsa_training_batch4/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/voldemort85/dsa_training_batch4/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/voldemort85/dsa_training_batch4/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/voldemort85/dsa_training_batch4/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/voldemort85/dsa_training_batch4/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/voldemort85/dsa_training_batch4/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/voldemort85/dsa_training_batch4/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
