@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/voldemort85/dsa_training_batch4/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/voldemort85/dsa_training_batch4/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/voldemort85/dsa_training_batch4/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0142-linked-list-cycle-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/voldemort85/dsa_training_batch4/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/voldemort85/dsa_training_batch4/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/voldemort85/dsa_training_batch4/tree/master/0876-middle-of-the-linked-list) |
