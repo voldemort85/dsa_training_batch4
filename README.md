@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/voldemort85/dsa_training_batch4/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/voldemort85/dsa_training_batch4/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/voldemort85/dsa_training_batch4/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/voldemort85/dsa_training_batch4/tree/master/0209-minimum-size-subarray-sum) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/voldemort85/dsa_training_batch4/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/voldemort85/dsa_training_batch4/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/voldemort85/dsa_training_batch4/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/voldemort85/dsa_training_batch4/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/voldemort85/dsa_training_batch4/tree/master/0141-linked-list-cycle) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/voldemort85/dsa_training_batch4/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/voldemort85/dsa_training_batch4/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
